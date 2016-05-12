@@ -101,4 +101,6 @@ extern "C" void __cxa_pure_virtual() {;}
 #define portInputRegister(P)
 #define portModeRegister(P)
 #include <ESP8266_RFID.ino>
+#include <src\_micro-api\libraries\rico_lib\src\rico_lib.cpp>
+#include <src\_micro-api\libraries\rico_lib\src\rico_lib.h>
 #endif
