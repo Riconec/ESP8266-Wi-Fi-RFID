@@ -47,10 +47,10 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <ForcedIncludeFiles>%(ForcedIncludeFiles)</ForcedIncludeFiles>
-      <IgnoreStandardIncludePath>true</IgnoreStandardIncludePath>
-      <PreprocessorDefinitions>%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\epp\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.0.0\cores\esp8266;C:\Users\epp\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.0.0\cores\esp8266\spiffs;C:\Users\epp\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.0.0\variants\generic;C:\Users\epp\Documents\GitHub\ESP8266-Wi-Fi-RFID\Code\ESP8266_RFID;C:\Users\epp\Documents\GitHub\ESP8266-Wi-Fi-RFID\Code\ESP8266_RFID\src\_micro-api\libraries\rico_lib\src;C:\Users\epp\Documents\GitHub\ESP8266-Wi-Fi-RFID\Code\ESP8266_RFID\src\_micro-api\libraries\rico_lib\src\utility;C:\arduino-1.6.9\libraries;C:\Users\epp\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.0.0\libraries;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\glarevjo.ykk\Micro Platforms\default\debuggers;C:\Users\epp\Documents\Arduino\libraries;C:\Users\epp\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.0.0/tools/sdk/include;C:\Users\epp\AppData\Local\arduino15\packages\esp8266\tools\xtensa-lx106-elf-gcc\1.20.0-26-gb404fb9-2\xtensa-lx106-elf\include\c++\4.8.2;C:\Users\epp\AppData\Local\arduino15\packages\esp8266\tools\xtensa-lx106-elf-gcc\1.20.0-26-gb404fb9-2\xtensa-lx106-elf\include\c++\4.8.2\xtensa-lx106-elf;C:\Users\epp\AppData\Local\arduino15\packages\esp8266\tools\xtensa-lx106-elf-gcc\1.20.0-26-gb404fb9-2\xtensa-lx106-elf\include;C:\Users\epp\AppData\Local\arduino15\packages\esp8266\tools\xtensa-lx106-elf-gcc\1.20.0-26-gb404fb9-2\lib\gcc\xtensa-lx106-elf\4.8.2\include;C:\Users\epp\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.0.0\tools\sdk\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <ForcedIncludeFiles>C:\Users\epp\Documents\GitHub\ESP8266-Wi-Fi-RFID\Code\ESP8266_RFID\__vm\.ESP8266_RFID.vsarduino.h;%(ForcedIncludeFiles)</ForcedIncludeFiles>
+      <IgnoreStandardIncludePath>false</IgnoreStandardIncludePath>
+      <PreprocessorDefinitions>__AVR_ESp8266__;__AVR_ESP8266__;__ets__;ICACHE_FLASH;F_CPU=80000000L;ARDUINO=10609;ARDUINO_ESP8266_ESP01;ARDUINO_ARCH_ESP8266;ESP8266;__cplusplus=201103L;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
@@ -74,6 +74,13 @@
     <None Include="ESP8266_RFID.ino">
       <FileType>CppCode</FileType>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\_micro-api\libraries\rico_lib\src\rico_lib.h" />
+    <ClInclude Include="__vm\.ESP8266_RFID.vsarduino.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\_micro-api\libraries\rico_lib\src\rico_lib.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
