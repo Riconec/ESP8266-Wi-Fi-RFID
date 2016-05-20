@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GPIO2 Pin=XS1-1
+Removed Pin From Net: NetName=SCK Pin=XS1-2
+Removed Pin From Net: NetName=MOSI Pin=XS1-3
+Removed Pin From Net: NetName=MISO Pin=XS1-4
+Removed Pin From Net: NetName=GND Pin=XS1-6
+Removed Pin From Net: NetName=GPIO15 Pin=XS1-7
+Removed Pin From Net: NetName=+3.3V Pin=XS1-8
+Removed Pin From Net: NetName=+3.3V Pin=XS2-1
+Removed Pin From Net: NetName=GND Pin=XS2-2
+Removed Pin From Net: NetName=ESP SCL Pin=XS2-3
+Removed Pin From Net: NetName=ESP SDA Pin=XS2-4
+Removed Member From Class: ClassName=ESP_SCH Member=XS?
+Change Component Designator: OldDesignator=XS? NewDesignator=XS1
+Change Component Designator: OldDesignator=XS? NewDesignator=XS2
+Change Component Designator: OldDesignator=ZQ? NewDesignator=ZQ1
+Added Component: Designator=XS4(RFID-RC522)
+Added Component: Designator=XS5(SSD)
+Added Pin To Net: NetName=GPIO2 Pin=XS4-1
+Added Pin To Net: NetName=SCK Pin=XS4-2
+Added Pin To Net: NetName=MOSI Pin=XS4-3
+Added Pin To Net: NetName=MISO Pin=XS4-4
+Added Pin To Net: NetName=GND Pin=XS4-6
+Added Pin To Net: NetName=GPIO15 Pin=XS4-7
+Added Pin To Net: NetName=+3.3V Pin=XS4-8
+Added Pin To Net: NetName=+3.3V Pin=XS5-1
+Added Pin To Net: NetName=GND Pin=XS5-2
+Added Pin To Net: NetName=ESP SCL Pin=XS5-3
+Added Pin To Net: NetName=ESP SDA Pin=XS5-4
+Added Member To Class: ClassName=ESP_SCH Member=Component XS4 RC522
+Added Member To Class: ClassName=ESP_SCH Member=Component XS5 SSD1306

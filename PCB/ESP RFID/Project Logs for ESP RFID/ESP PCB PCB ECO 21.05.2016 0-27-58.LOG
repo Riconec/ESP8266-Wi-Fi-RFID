@@ -1,0 +1,33 @@
+Added Component: Designator=TP1(TP no hole)
+Added Component: Designator=TP2(TP no hole)
+Added Component: Designator=TP3(TP no hole)
+Added Component: Designator=TP5(TP no hole)
+Added Component: Designator=TP6(TP no hole)
+Added Component: Designator=TP7(TP no hole)
+Added Component: Designator=TP8(TP no hole)
+Added Component: Designator=TP9(TP no hole)
+Added Component: Designator=TP10(TP no hole)
+Added Component: Designator=TP11(TP no hole)
+Added Pin To Net: NetName=ICSP MOSI Pin=TP1-1
+Added Pin To Net: NetName=ICSP MISO Pin=TP2-1
+Added Pin To Net: NetName=ICSP SCK Pin=TP3-1
+Added Pin To Net: NetName=DTR Pin=TP5-1
+Added Pin To Net: NetName=RTS Pin=TP6-1
+Added Pin To Net: NetName=GPIO0 Pin=TP7-1
+Added Pin To Net: NetName=GPIO2 Pin=TP8-1
+Added Pin To Net: NetName=GPIO15 Pin=TP9-1
+Added Pin To Net: NetName=ESP RST Pin=TP10-1
+Added Pin To Net: NetName=ESP EN Pin=TP11-1
+Added Member To Class: ClassName=ESP_SCH_debug and testing Member=Component TP1 TP
+Added Member To Class: ClassName=ESP_SCH_debug and testing Member=Component TP2 TP
+Added Member To Class: ClassName=ESP_SCH_debug and testing Member=Component TP3 TP
+Added Member To Class: ClassName=ESP_SCH_debug and testing Member=Component TP4 TP
+Added Member To Class: ClassName=ESP_SCH_debug and testing Member=Component TP5 TP
+Added Member To Class: ClassName=ESP_SCH_debug and testing Member=Component TP6 TP
+Added Member To Class: ClassName=ESP_SCH_debug and testing Member=Component TP7 TP
+Added Member To Class: ClassName=ESP_SCH_debug and testing Member=Component TP8 TP
+Added Member To Class: ClassName=ESP_SCH_debug and testing Member=Component TP9 TP
+Added Member To Class: ClassName=ESP_SCH_debug and testing Member=Component TP10 TP
+Added Member To Class: ClassName=ESP_SCH_debug and testing Member=Component TP11 TP
+Added Member To Class: ClassName=ESP_SCH Member=Component XS1 uUSB
+Added Member To Class: ClassName=ESP_SCH Member=Component XS2 battery
