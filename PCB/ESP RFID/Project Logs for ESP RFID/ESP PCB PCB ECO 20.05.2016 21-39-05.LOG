@@ -1,0 +1,4 @@
+Added Component: Designator=BR1(ENCODER_LED_2)
+Added Pin To Net: NetName=ENC BUT Pin=BR1-K+
+Added Pin To Net: NetName=GND Pin=BR1-K-
+Added Member To Class: ClassName=ESP_SCH Member=Component BR1 ENC130175F-12PS

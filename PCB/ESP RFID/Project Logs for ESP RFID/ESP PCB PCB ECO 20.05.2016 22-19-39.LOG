@@ -1,0 +1,3 @@
+Added Component: Designator=XS?(PCBComponent_1 - duplicate)
+Added Pin To Net: NetName=VBAT Pin=XS?-1
+Added Pin To Net: NetName=GND Pin=XS?-2

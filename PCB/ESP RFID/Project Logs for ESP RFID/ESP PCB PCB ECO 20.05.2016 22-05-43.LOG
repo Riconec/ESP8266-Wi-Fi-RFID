@@ -1,0 +1,10 @@
+Added Component: Designator=XS?(USB-MICROB)
+Added Pin To Net: NetName=VBUS Pin=XS?-1
+Added Pin To Net: NetName=GND Pin=XS?-5
+Added Pin To Net: NetName=NetDD3_3 Pin=DD3-3
+Added Pin To Net: NetName=NetDD3_3 Pin=XS?-3
+Added Net: Name=NetDD3_3
+Added Pin To Net: NetName=NetDD3_4 Pin=DD3-4
+Added Pin To Net: NetName=NetDD3_4 Pin=XS?-2
+Added Net: Name=NetDD3_4
+Added Member To Class: ClassName=ESP_SCH Member=Component XS? uUSB

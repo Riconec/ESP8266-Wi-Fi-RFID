@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ENC BUT Pin=BR1-K+
+Removed Pin From Net: NetName=GND Pin=BR1-K-
+Removed Member From Class: ClassName=ESP_SCH Member=BR1
+Removed Member From Class: ClassName=ESP_SCH Member=XS1
+Change Net Name : Old Net Name=NetBR1_A New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetBR1_B New Net Name=NetR13_1
