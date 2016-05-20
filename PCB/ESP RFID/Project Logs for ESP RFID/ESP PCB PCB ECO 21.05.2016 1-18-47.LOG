@@ -1,0 +1,15 @@
+Added Component: Designator=XS3(RFID-RC522)
+Added Component: Designator=XS4(SSD)
+Added Pin To Net: NetName=GPIO2 Pin=XS3-1
+Added Pin To Net: NetName=SCK Pin=XS3-2
+Added Pin To Net: NetName=MOSI Pin=XS3-3
+Added Pin To Net: NetName=MISO Pin=XS3-4
+Added Pin To Net: NetName=GND Pin=XS3-6
+Added Pin To Net: NetName=GPIO15 Pin=XS3-7
+Added Pin To Net: NetName=+3.3V Pin=XS3-8
+Added Pin To Net: NetName=+3.3V Pin=XS4-1
+Added Pin To Net: NetName=GND Pin=XS4-2
+Added Pin To Net: NetName=ESP SCL Pin=XS4-3
+Added Pin To Net: NetName=ESP SDA Pin=XS4-4
+Added Member To Class: ClassName=ESP_SCH Member=Component XS3 RC522
+Added Member To Class: ClassName=ESP_SCH Member=Component XS4 SSD1306
