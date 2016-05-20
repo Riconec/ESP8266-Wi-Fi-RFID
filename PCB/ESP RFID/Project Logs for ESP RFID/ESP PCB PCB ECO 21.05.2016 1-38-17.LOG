@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP17
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP16
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP15 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP16 NewDesignator=TP10
+Change Component Designator: OldDesignator=TPJ2 NewDesignator=TPJ1
+Change Component Designator: OldDesignator=TPJ3 NewDesignator=TPJ2
+Change Component Designator: OldDesignator=TPJ4 NewDesignator=TPJ3
+Change Component Designator: OldDesignator=TPJ5 NewDesignator=TPJ4
+Change Component Designator: OldDesignator=TPJ6 NewDesignator=TPJ5
+Added Member To Class: ClassName=ESP_SCH_debug and testing Member=Component TP17 TP
