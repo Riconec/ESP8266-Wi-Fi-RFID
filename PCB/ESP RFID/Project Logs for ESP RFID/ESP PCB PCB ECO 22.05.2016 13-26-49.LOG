@@ -1,0 +1,48 @@
+Added Component: Designator=DD1(SLAB-QFN-24-2675x2675TP_M)
+Added Component: Designator=DD5(32M1-A_M)
+Added Pin To Net: NetName=GND Pin=DD1-2
+Added Pin To Net: NetName=NetDD1__3 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1__4 Pin=DD1-4
+Added Pin To Net: NetName=+3.3V Pin=DD1-5
+Added Pin To Net: NetName=+3.3V Pin=DD1-6
+Added Pin To Net: NetName=+3.3V Pin=DD1-7
+Added Pin To Net: NetName=NetDD1__8 Pin=DD1-8
+Added Pin To Net: NetName=NetDD1__9 Pin=DD1-9
+Added Pin To Net: NetName=NetC9_1 Pin=DD1-16
+Added Pin To Net: NetName=RTS Pin=DD1-19
+Added Pin To Net: NetName=USB RXD Pin=DD1-20
+Added Pin To Net: NetName=USB TXD Pin=DD1-21
+Added Pin To Net: NetName=DTR Pin=DD1-23
+Added Pin To Net: NetName=NetDD5_1 Pin=DD5-1
+Added Pin To Net: NetName=CH STAT Pin=DD5-2
+Added Pin To Net: NetName=GND Pin=DD5-3
+Added Pin To Net: NetName=+3.3V Pin=DD5-4
+Added Pin To Net: NetName=GND Pin=DD5-5
+Added Pin To Net: NetName=+3.3V Pin=DD5-6
+Added Pin To Net: NetName=GPIO16 Pin=DD5-9
+Added Pin To Net: NetName=ESP EN Pin=DD5-10
+Added Pin To Net: NetName=TEST LED1 Pin=DD5-12
+Added Pin To Net: NetName=TEST LED2 Pin=DD5-13
+Added Pin To Net: NetName=TEST SS Pin=DD5-14
+Added Pin To Net: NetName=ICSP MOSI Pin=DD5-15
+Added Pin To Net: NetName=ICSP MISO Pin=DD5-16
+Added Pin To Net: NetName=ICSP SCK Pin=DD5-17
+Added Pin To Net: NetName=+3.3V Pin=DD5-18
+Added Pin To Net: NetName=+3.3V Pin=DD5-20
+Added Pin To Net: NetName=GND Pin=DD5-21
+Added Pin To Net: NetName=NetDD5_23 Pin=DD5-23
+Added Pin To Net: NetName=ENC A Pin=DD5-24
+Added Pin To Net: NetName=ENC B Pin=DD5-25
+Added Pin To Net: NetName=ENC BUT Pin=DD5-26
+Added Pin To Net: NetName=ESP SDA Pin=DD5-27
+Added Pin To Net: NetName=ESP SCL Pin=DD5-28
+Added Pin To Net: NetName=ICSP RST Pin=DD5-29
+Added Pin To Net: NetName=TEST RXD Pin=DD5-30
+Added Pin To Net: NetName=TEST TXD Pin=DD5-31
+Added Pin To Net: NetName=USD CD Pin=DD5-32
+Change Net Name : Old Net Name=NetDD1__3 New Net Name=NetDD1_3
+Change Net Name : Old Net Name=NetDD1__4 New Net Name=NetDD1_4
+Change Net Name : Old Net Name=NetDD1__8 New Net Name=NetDD1_8
+Change Net Name : Old Net Name=NetDD1__9 New Net Name=NetDD1_9
+Added Member To Class: ClassName=ESP_SCH Member=Component DD1 CP2104-F03-GM
+Added Member To Class: ClassName=ESP_SCH Member=Component DD5 ATmega8A-MUR

@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=ESP RST Pin=DD4-1
+Removed Pin From Net: NetName=ESP EN Pin=DD4-3
+Removed Pin From Net: NetName=GPIO16 Pin=DD4-4
+Removed Pin From Net: NetName=SCK Pin=DD4-5
+Removed Pin From Net: NetName=MISO Pin=DD4-6
+Removed Pin From Net: NetName=MOSI Pin=DD4-7
+Removed Pin From Net: NetName=+3.3V Pin=DD4-8
+Removed Pin From Net: NetName=GPIO15 Pin=DD4-16
+Removed Pin From Net: NetName=GPIO2 Pin=DD4-17
+Removed Pin From Net: NetName=GPIO0 Pin=DD4-18
+Removed Pin From Net: NetName=ESP SDA Pin=DD4-19
+Removed Pin From Net: NetName=ESP SCL Pin=DD4-20
+Removed Pin From Net: NetName=USB TXD Pin=DD4-21
+Removed Pin From Net: NetName=USB RXD Pin=DD4-22
+Removed Pin From Net: NetName=CH STAT Pin=DD?-2
+Removed Pin From Net: NetName=GND Pin=DD?-3
+Removed Pin From Net: NetName=+3.3V Pin=DD?-4
+Removed Pin From Net: NetName=GND Pin=DD?-5
+Removed Pin From Net: NetName=+3.3V Pin=DD?-6
+Removed Pin From Net: NetName=GPIO16 Pin=DD?-9
+Removed Pin From Net: NetName=ESP EN Pin=DD?-10
+Removed Pin From Net: NetName=TEST LED1 Pin=DD?-12
+Removed Pin From Net: NetName=TEST LED2 Pin=DD?-13
+Removed Pin From Net: NetName=TEST SS Pin=DD?-14
+Removed Pin From Net: NetName=ICSP MOSI Pin=DD?-15
+Removed Pin From Net: NetName=ICSP MISO Pin=DD?-16
+Removed Pin From Net: NetName=ICSP SCK Pin=DD?-17
+Removed Pin From Net: NetName=+3.3V Pin=DD?-18
+Removed Pin From Net: NetName=+3.3V Pin=DD?-20
+Removed Pin From Net: NetName=GND Pin=DD?-21
+Removed Pin From Net: NetName=ENC A Pin=DD?-24
+Removed Pin From Net: NetName=ENC B Pin=DD?-25
+Removed Pin From Net: NetName=ENC BUT Pin=DD?-26
+Removed Pin From Net: NetName=ESP SDA Pin=DD?-27
+Removed Pin From Net: NetName=ESP SCL Pin=DD?-28
+Removed Pin From Net: NetName=ICSP RST Pin=DD?-29
+Removed Pin From Net: NetName=TEST RXD Pin=DD?-30
+Removed Pin From Net: NetName=TEST TXD Pin=DD?-31
+Removed Pin From Net: NetName=USD CD Pin=DD?-32
+Removed Member From Class: ClassName=ESP_SCH Member=DD4
+Removed Member From Class: ClassName=ESP_SCH Member=DD?
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=R18-2
+Added Net: Name=NetR17_1

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=DD1-2
+Removed Pin From Net: NetName=NetDD1_3 Pin=DD1-3
+Removed Pin From Net: NetName=NetDD1_4 Pin=DD1-4
+Removed Pin From Net: NetName=+3.3V Pin=DD1-5
+Removed Pin From Net: NetName=+3.3V Pin=DD1-6
+Removed Pin From Net: NetName=+3.3V Pin=DD1-7
+Removed Pin From Net: NetName=NetDD1_8 Pin=DD1-8
+Removed Pin From Net: NetName=NetDD1_9 Pin=DD1-9
+Removed Pin From Net: NetName=NetC9_1 Pin=DD1-16
+Removed Pin From Net: NetName=RTS Pin=DD1-19
+Removed Pin From Net: NetName=USB RXD Pin=DD1-20
+Removed Pin From Net: NetName=USB TXD Pin=DD1-21
+Removed Pin From Net: NetName=DTR Pin=DD1-23
+Removed Pin From Net: NetName=GND Pin=DD1-25
+Removed Member From Class: ClassName=ESP_SCH Member=DD1
+Added Component: Designator=DD1_(SLAB-QFN-24-2675x2675TP_N)
+Added Pin To Net: NetName=GND Pin=DD1_-2
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1_-3
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1_-4
+Added Pin To Net: NetName=+3.3V Pin=DD1_-5
+Added Pin To Net: NetName=+3.3V Pin=DD1_-6
+Added Pin To Net: NetName=+3.3V Pin=DD1_-7
+Added Pin To Net: NetName=NetDD1_8 Pin=DD1_-8
+Added Pin To Net: NetName=NetDD1_9 Pin=DD1_-9
+Added Pin To Net: NetName=NetC9_1 Pin=DD1_-16
+Added Pin To Net: NetName=RTS Pin=DD1_-19
+Added Pin To Net: NetName=USB RXD Pin=DD1_-20
+Added Pin To Net: NetName=USB TXD Pin=DD1_-21
+Added Pin To Net: NetName=DTR Pin=DD1_-23
+Added Pin To Net: NetName=GND Pin=DD1_-25
+Change Net Name : Old Net Name=NetDD1_3 New Net Name=NetDD1__3
+Change Net Name : Old Net Name=NetDD1_4 New Net Name=NetDD1__4
+Change Net Name : Old Net Name=NetDD1_8 New Net Name=NetDD1__8
+Change Net Name : Old Net Name=NetDD1_9 New Net Name=NetDD1__9
+Added Member To Class: ClassName=ESP_SCH Member=Component DD1_ CP2104-F03-GM

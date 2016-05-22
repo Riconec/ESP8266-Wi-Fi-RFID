@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=VBAT Pin=R18-2
+Change Component Footprint: Designator=ZQ1 Old Footprint=HC49 New Footprint=PCBComponent_1 - duplicate1
+Added Component: Designator=DD1(SLAB-QFN-24-2675x2675TP_N)
+Added Component: Designator=DD4(ESP_12_E)
+Added Component: Designator=DD5(atmega8a)
+Added Component: Designator=R21(RES0603)
+Added Pin To Net: NetName=GND Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1-4
+Added Pin To Net: NetName=+3.3V Pin=DD1-5
+Added Pin To Net: NetName=+3.3V Pin=DD1-6
+Added Pin To Net: NetName=+3.3V Pin=DD1-7
+Added Pin To Net: NetName=NetDD1_8 Pin=DD1-8
+Added Pin To Net: NetName=NetDD1_9 Pin=DD1-9
+Added Pin To Net: NetName=NetC9_1 Pin=DD1-16
+Added Pin To Net: NetName=RTS Pin=DD1-19
+Added Pin To Net: NetName=USB RXD Pin=DD1-20
+Added Pin To Net: NetName=USB TXD Pin=DD1-21
+Added Pin To Net: NetName=DTR Pin=DD1-23
+Added Pin To Net: NetName=ESP RST Pin=DD4-1
+Added Pin To Net: NetName=ESP EN Pin=DD4-3
+Added Pin To Net: NetName=GPIO16 Pin=DD4-4
+Added Pin To Net: NetName=SCK Pin=DD4-5
+Added Pin To Net: NetName=MISO Pin=DD4-6
+Added Pin To Net: NetName=MOSI Pin=DD4-7
+Added Pin To Net: NetName=+3.3V Pin=DD4-8
+Added Pin To Net: NetName=GPIO15 Pin=DD4-10
+Added Pin To Net: NetName=GPIO2 Pin=DD4-11
+Added Pin To Net: NetName=GPIO0 Pin=DD4-12
+Added Pin To Net: NetName=ESP SDA Pin=DD4-13
+Added Pin To Net: NetName=ESP SCL Pin=DD4-14
+Added Pin To Net: NetName=USB TXD Pin=DD4-15
+Added Pin To Net: NetName=USB RXD Pin=DD4-16
+Added Pin To Net: NetName=CH STAT Pin=DD5-2
+Added Pin To Net: NetName=GND Pin=DD5-3
+Added Pin To Net: NetName=+3.3V Pin=DD5-4
+Added Pin To Net: NetName=GND Pin=DD5-5
+Added Pin To Net: NetName=+3.3V Pin=DD5-6
+Added Pin To Net: NetName=GPIO16 Pin=DD5-9
+Added Pin To Net: NetName=ESP EN Pin=DD5-10
+Added Pin To Net: NetName=TEST LED1 Pin=DD5-12
+Added Pin To Net: NetName=TEST LED2 Pin=DD5-13
+Added Pin To Net: NetName=TEST SS Pin=DD5-14
+Added Pin To Net: NetName=ICSP MOSI Pin=DD5-15
+Added Pin To Net: NetName=ICSP MISO Pin=DD5-16
+Added Pin To Net: NetName=ICSP SCK Pin=DD5-17
+Added Pin To Net: NetName=+3.3V Pin=DD5-18
+Added Pin To Net: NetName=+3.3V Pin=DD5-20
+Added Pin To Net: NetName=GND Pin=DD5-21
+Added Pin To Net: NetName=ENC A Pin=DD5-24
+Added Pin To Net: NetName=ENC B Pin=DD5-25
+Added Pin To Net: NetName=ENC BUT Pin=DD5-26
+Added Pin To Net: NetName=ESP SDA Pin=DD5-27
+Added Pin To Net: NetName=ESP SCL Pin=DD5-28
+Added Pin To Net: NetName=ICSP RST Pin=DD5-29
+Added Pin To Net: NetName=TEST RXD Pin=DD5-30
+Added Pin To Net: NetName=TEST TXD Pin=DD5-31
+Added Pin To Net: NetName=USD CD Pin=DD5-32
+Added Pin To Net: NetName=VBAT Pin=R21-2
+Added Pin To Net: NetName=NetDD5_1 Pin=DD5-1
+Added Pin To Net: NetName=NetDD5_1 Pin=HF1-2
+Added Net: Name=NetDD5_1
+Added Pin To Net: NetName=NetDD5_23 Pin=DD5-23
+Added Pin To Net: NetName=NetDD5_23 Pin=R18-2
+Added Pin To Net: NetName=NetDD5_23 Pin=R21-1
+Added Net: Name=NetDD5_23
+Added Member To Class: ClassName=ESP_SCH Member=Component DD1 CP2104-F03-GM
+Added Member To Class: ClassName=ESP_SCH Member=Component DD4 ESP-12
+Added Member To Class: ClassName=ESP_SCH Member=Component DD5 ATmega8A-MUR

@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=CH STAT Pin=DD5-2
+Removed Pin From Net: NetName=GND Pin=DD5-3
+Removed Pin From Net: NetName=+3.3V Pin=DD5-4
+Removed Pin From Net: NetName=GND Pin=DD5-5
+Removed Pin From Net: NetName=+3.3V Pin=DD5-6
+Removed Pin From Net: NetName=GPIO16 Pin=DD5-9
+Removed Pin From Net: NetName=ESP EN Pin=DD5-10
+Removed Pin From Net: NetName=TEST LED1 Pin=DD5-12
+Removed Pin From Net: NetName=TEST LED2 Pin=DD5-13
+Removed Pin From Net: NetName=TEST SS Pin=DD5-14
+Removed Pin From Net: NetName=ICSP MOSI Pin=DD5-15
+Removed Pin From Net: NetName=ICSP MISO Pin=DD5-16
+Removed Pin From Net: NetName=ICSP SCK Pin=DD5-17
+Removed Pin From Net: NetName=+3.3V Pin=DD5-18
+Removed Pin From Net: NetName=+3.3V Pin=DD5-20
+Removed Pin From Net: NetName=GND Pin=DD5-21
+Removed Pin From Net: NetName=ENC A Pin=DD5-24
+Removed Pin From Net: NetName=ENC B Pin=DD5-25
+Removed Pin From Net: NetName=ENC BUT Pin=DD5-26
+Removed Pin From Net: NetName=ESP SDA Pin=DD5-27
+Removed Pin From Net: NetName=ESP SCL Pin=DD5-28
+Removed Pin From Net: NetName=ICSP RST Pin=DD5-29
+Removed Pin From Net: NetName=TEST RXD Pin=DD5-30
+Removed Pin From Net: NetName=TEST TXD Pin=DD5-31
+Removed Pin From Net: NetName=USD CD Pin=DD5-32
+Removed Member From Class: ClassName=ESP_SCH Member=DD5
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=R18-2
+Added Net: Name=NetR17_1

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=ICSP SCK Pin=TPJ1-1
+Removed Pin From Net: NetName=GPIO16 Pin=TPJ1-2
+Removed Pin From Net: NetName=TEST SS Pin=TPJ1-3
+Removed Member From Class: ClassName=ESP_SCH_debug and testing Member=TPJ1
+Added Component: Designator=TP18(TP no hole)
+Added Pin To Net: NetName=GPIO16 Pin=TP18-1
+Added Member To Class: ClassName=ESP_SCH_debug and testing Member=Component TP18 TP

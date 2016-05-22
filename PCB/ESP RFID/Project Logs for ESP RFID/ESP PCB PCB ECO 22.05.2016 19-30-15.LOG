@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=DD5 Old Footprint=atmega8a New Footprint=QFN127P600-8N
+Change Component Footprint: Designator=DD1 Old Footprint=SLAB-QFN-24-2675x2675TP_N New Footprint=SLAB-QFN-24-2675x2675TP_M

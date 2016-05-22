@@ -1,0 +1,11 @@
+Added Component: Designator=DD4(ESP_12_E)
+Added Pin To Net: NetName=ESP RST Pin=DD4-1
+Added Pin To Net: NetName=ESP EN Pin=DD4-3
+Added Pin To Net: NetName=GPIO16 Pin=DD4-4
+Added Pin To Net: NetName=SCK Pin=DD4-5
+Added Pin To Net: NetName=MISO Pin=DD4-6
+Added Pin To Net: NetName=MOSI Pin=DD4-7
+Added Pin To Net: NetName=+3.3V Pin=DD4-8
+Added Pin To Net: NetName=USB TXD Pin=DD4-15
+Added Pin To Net: NetName=USB RXD Pin=DD4-16
+Added Member To Class: ClassName=ESP_SCH Member=Component DD4 ESP-12

@@ -1,0 +1,34 @@
+Added Component: Designator=DD?(atmega8a)
+Added Pin To Net: NetName=CH STAT Pin=DD?-2
+Added Pin To Net: NetName=GND Pin=DD?-3
+Added Pin To Net: NetName=+3.3V Pin=DD?-4
+Added Pin To Net: NetName=GND Pin=DD?-5
+Added Pin To Net: NetName=+3.3V Pin=DD?-6
+Added Pin To Net: NetName=GPIO16 Pin=DD?-9
+Added Pin To Net: NetName=ESP EN Pin=DD?-10
+Added Pin To Net: NetName=TEST LED1 Pin=DD?-12
+Added Pin To Net: NetName=TEST LED2 Pin=DD?-13
+Added Pin To Net: NetName=TEST SS Pin=DD?-14
+Added Pin To Net: NetName=ICSP MOSI Pin=DD?-15
+Added Pin To Net: NetName=ICSP MISO Pin=DD?-16
+Added Pin To Net: NetName=ICSP SCK Pin=DD?-17
+Added Pin To Net: NetName=+3.3V Pin=DD?-18
+Added Pin To Net: NetName=+3.3V Pin=DD?-20
+Added Pin To Net: NetName=GND Pin=DD?-21
+Added Pin To Net: NetName=ENC A Pin=DD?-24
+Added Pin To Net: NetName=ENC B Pin=DD?-25
+Added Pin To Net: NetName=ENC BUT Pin=DD?-26
+Added Pin To Net: NetName=ESP SDA Pin=DD?-27
+Added Pin To Net: NetName=ESP SCL Pin=DD?-28
+Added Pin To Net: NetName=ICSP RST Pin=DD?-29
+Added Pin To Net: NetName=TEST RXD Pin=DD?-30
+Added Pin To Net: NetName=TEST TXD Pin=DD?-31
+Added Pin To Net: NetName=USD CD Pin=DD?-32
+Added Pin To Net: NetName=NetDD?_1 Pin=DD?-1
+Added Pin To Net: NetName=NetDD?_1 Pin=HF1-2
+Added Net: Name=NetDD?_1
+Added Pin To Net: NetName=NetDD?_23 Pin=DD?-23
+Added Pin To Net: NetName=NetDD?_23 Pin=R17-1
+Added Pin To Net: NetName=NetDD?_23 Pin=R18-2
+Added Net: Name=NetDD?_23
+Added Member To Class: ClassName=ESP_SCH Member=Component DD? ATmega8A-MUR

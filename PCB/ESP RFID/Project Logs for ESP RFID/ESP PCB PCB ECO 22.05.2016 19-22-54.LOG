@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=ZQ1 Old Footprint=PCBComponent_1 - duplicate1 New Footprint=HC49
+Change Component Footprint: Designator=DD1 Old Footprint=SLAB-QFN-24-2675x2675TP_M New Footprint=SLAB-QFN-24-2675x2675TP_N
+Change Component Footprint: Designator=TP10 Old Footprint=TP hole plated New Footprint=TP no hole
+Change Component Footprint: Designator=TP11 Old Footprint=TP hole plated New Footprint=TP no hole
+Change Component Footprint: Designator=TP12 Old Footprint=TP hole plated New Footprint=TP no hole
+Change Component Footprint: Designator=TP13 Old Footprint=TP hole plated New Footprint=TP no hole
+Change Component Footprint: Designator=TP14 Old Footprint=TP hole plated New Footprint=TP no hole
+Change Component Footprint: Designator=TP15 Old Footprint=TP hole plated New Footprint=TP no hole
