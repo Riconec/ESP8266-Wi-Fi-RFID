@@ -140,6 +140,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SHPAYVLY
 
+[Document7]
+DocumentPath=logo kpi.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TPHVWRDP
+
+[Document8]
+DocumentPath=keoa logo.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YQMLMOKS
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ESP RFID\Design Rule Check - ESP PCB.html
 DItemRevisionGUID=
@@ -159,13 +193,12 @@ ConstraintFileCount=0
 ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
-GenerateBOM=1
 OutputJobsCount=0
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=\\printers\mfu-6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -201,7 +234,7 @@ OutputDefault6=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=\\printers\mfu-6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -328,11 +361,17 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType18=PDF3D
+OutputName18=PDF3D
+OutputDocumentPath18=
+OutputVariantName18=[No Variations]
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=\\printers\mfu-6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -354,7 +393,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=\\printers\mfu-6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -426,7 +465,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=\\printers\mfu-6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Script
 OutputName1=Script Output
@@ -479,7 +518,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=\\printers\mfu-6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -659,7 +698,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=\\printers\mfu-6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -698,7 +737,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=\\printers\mfu-6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -710,11 +749,16 @@ OutputName2=AutoCAD dwg/dxf File Schematic
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=PDF3D
-OutputName3=Export PDF3D
+OutputType3=ExportIDF
+OutputName3=Export IDF
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
+OutputType4=ExportSTEP
+OutputName4=Export STEP
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
 
 [Modification Levels]
 Type1=1
@@ -795,6 +839,8 @@ Type75=1
 Type76=1
 Type77=1
 Type78=1
+Type79=1
+Type80=1
 
 [Difference Levels]
 Type1=1
@@ -840,6 +886,8 @@ Type40=1
 Type41=1
 Type42=1
 Type43=1
+Type44=0
+Type45=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1130,73 +1178,73 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Code_IPC
+ParameterName0=еяйд
 ParameterUpdate0=1
-ParameterName1=Code_JEDEC
+ParameterName1=Code_IPC
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=Code_JEDEC
 ParameterUpdate2=1
-ParameterName3=Component Kind
+ParameterName3=Comment
 ParameterUpdate3=1
-ParameterName4=ComponentLink1Description
+ParameterName4=Component Kind
 ParameterUpdate4=1
-ParameterName5=ComponentLink1URL
+ParameterName5=ComponentLink1Description
 ParameterUpdate5=1
-ParameterName6=ComponentLink2Description
+ParameterName6=ComponentLink1URL
 ParameterUpdate6=1
-ParameterName7=ComponentLink2URL
+ParameterName7=ComponentLink2Description
 ParameterUpdate7=1
-ParameterName8=ComponentLink3Description
+ParameterName8=ComponentLink2URL
 ParameterUpdate8=1
-ParameterName9=ComponentLink3URL
+ParameterName9=ComponentLink3Description
 ParameterUpdate9=1
-ParameterName10=DatasheetVersion
+ParameterName10=ComponentLink3URL
 ParameterUpdate10=1
-ParameterName11=Description
+ParameterName11=DatasheetVersion
 ParameterUpdate11=1
-ParameterName12=EEPROM
+ParameterName12=Description
 ParameterUpdate12=1
-ParameterName13=IC
+ParameterName13=EEPROM
 ParameterUpdate13=1
-ParameterName14=Internal Oscillator
+ParameterName14=IC
 ParameterUpdate14=1
-ParameterName15=Library Reference
+ParameterName15=Internal Oscillator
 ParameterUpdate15=1
-ParameterName16=Manufacter
+ParameterName16=Library Reference
 ParameterUpdate16=1
-ParameterName17=Manufacturer
+ParameterName17=Manufacter
 ParameterUpdate17=1
-ParameterName18=Mounting Technology
+ParameterName18=Manufacturer
 ParameterUpdate18=1
-ParameterName19=PackageDescription
+ParameterName19=Mounting Technology
 ParameterUpdate19=1
-ParameterName20=PackageReference
+ParameterName20=PackageDescription
 ParameterUpdate20=1
-ParameterName21=Part Number
+ParameterName21=PackageReference
 ParameterUpdate21=1
-ParameterName22=PartNumber
+ParameterName22=Part Number
 ParameterUpdate22=1
-ParameterName23=Rem
+ParameterName23=PartNumber
 ParameterUpdate23=1
-ParameterName24=Sub-Family
+ParameterName24=Rem
 ParameterUpdate24=1
-ParameterName25=Supplier 1
+ParameterName25=Sub-Family
 ParameterUpdate25=1
-ParameterName26=Supplier 2
+ParameterName26=Supplier 1
 ParameterUpdate26=1
-ParameterName27=Supplier Part Number 1
+ParameterName27=Supplier 2
 ParameterUpdate27=1
-ParameterName28=Supplier Part Number 2
+ParameterName28=Supplier Part Number 1
 ParameterUpdate28=1
-ParameterName29=Tolerance
+ParameterName29=Supplier Part Number 2
 ParameterUpdate29=1
-ParameterName30=Value
-ParameterUpdate30=0
-ParameterName31=Vendor
-ParameterUpdate31=1
-ParameterName32=Voltage
+ParameterName30=Tolerance
+ParameterUpdate30=1
+ParameterName31=Value
+ParameterUpdate31=0
+ParameterName32=Vendor
 ParameterUpdate32=1
-ParameterName33=еяйд
+ParameterName33=Voltage
 ParameterUpdate33=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
